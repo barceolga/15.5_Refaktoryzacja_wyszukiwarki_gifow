@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  background-color: #ccf2ff; }
+  body div h1 {
+    font-size: 35px;
+    color: navy;
+    font-weight: 600;
+    text-shadow: 2px 2px #ffb84d;
+    text-transform: capitalize; }
+  body div p {
+    font-size: 20px;
+    color: #444422;
+    font-weight: 400; }
